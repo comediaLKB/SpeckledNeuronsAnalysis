@@ -14,5 +14,5 @@ core scripts/libraries:
 * **moro_utils.py**  -  few simple misc utilities
 
 jupyter notebook analisys pipelines:
-* **supp_figs_1_13_speckles.ipynb**  -  plot fingerprints and speckle statistics for supp.figs.1 and 13
+* **supp_figs_1_speckles_stat.ipynb**  -  plot fingerprints and speckle statistics for supp.figs.1
 
