@@ -1,9 +1,4 @@
-# SpeckledNeurons_control
-
----
-
-**all should works, but still dirty code**  
-work in progress to clean the scripts code and upload them all
+# SpeckledNeuronsAnalysis
 
 ---
 
@@ -13,6 +8,5 @@ core scripts/libraries:
 * **demixing_**_something_**.py**  -  use the above function to analize datasets
 * **moro_utils.py**  -  few simple misc utilities
 
-jupyter notebook analisys pipelines:
-* **supp_figs_1_speckles_stat.ipynb**  -  plot fingerprints and speckle statistics for supp.figs.1
-
+jupyter notebooks associated with the different figures:
+* **supp_figs_##.ipynb**
