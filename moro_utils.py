@@ -4,6 +4,7 @@ import numpy as np
 import skvideo
 
 def printProgressBar (iteration, total, prefix ='', suffix='', decimals=1, length=100, fill='*'):
+    # from https://gist.github.com/greenstick
     """
     Call in a loop to create terminal progress bar
     @params:
